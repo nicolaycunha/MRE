@@ -1,4 +1,4 @@
-"Darwin_Synd" "Flies_or_bees" "Life_form" "Sp_filo_plant_list2"
+"y" "x" "LF" "species"
 "Eupatorium_cannabinum" "no" "no" "herb" "Eupatorium_cannabinum"
 "Espeletia_batata" "no" "yes" "herb" "Espeletia_batata"
 "Helianthus_annuus" "no" "yes" "herb" "Helianthus_annuus"
