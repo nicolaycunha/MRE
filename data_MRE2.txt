@@ -1,4 +1,4 @@
-"X" "y" "LF" "species"
+"y" "X" "LF" "species"
 "Eupatorium_cannabinum" "no" "no" "herb" "Eupatorium_cannabinum"
 "Espeletia_batata" "no" "yes" "herb" "Espeletia_batata"
 "Helianthus_annuus" "no" "yes" "herb" "Helianthus_annuus"
